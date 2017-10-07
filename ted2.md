@@ -20,7 +20,7 @@ date: 2017-10-08
 
 > big difference is that tech comm is about the "how", while content marketing is about the "why". 
 
-> This "how" versus "why" is the essence of the gap, and it must be understood by both tech comm and marketing teams in order to achieve genuine collaboration. 
+> This "how" versus "why" is the essence of the gap, and it must be understood by both tech comm and marketing teams ...
 
 [Better together: technical writers and content marketers](http://www.tcworld.info/e-magazine/content-strategies/article/better-together-technical-writers-and-content-marketers/)
 
@@ -28,7 +28,7 @@ date: 2017-10-08
 	
 > Content strategy and technical communication are different facets of the same problem. Content strategy means that you use information to achieve business goals. Technical communication is information that enables people to use a product or service.
 
-([The Intersection of Content Strategy and TechComm](http://blogs.adobe.com/techcomm/2013/07/the-intersection-of-content-strategy-and-tech-comm.html))
+[The Intersection of Content Strategy and TechComm](http://blogs.adobe.com/techcomm/2013/07/the-intersection-of-content-strategy-and-tech-comm.html)
 
 ---
 
@@ -36,7 +36,7 @@ date: 2017-10-08
 
 > content strategy requires a more holistic view of information and tech comm requires a more tactical perspective.
 
-([The Intersection of Content Strategy and TechComm](http://blogs.adobe.com/techcomm/2013/07/the-intersection-of-content-strategy-and-tech-comm.html))
+[The Intersection of Content Strategy and TechComm](http://blogs.adobe.com/techcomm/2013/07/the-intersection-of-content-strategy-and-tech-comm.html)
 
  
 
@@ -46,6 +46,12 @@ date: 2017-10-08
 - Entwicklung der Suche
 - Social Media und Empfehlungssysteme
 - User Experience als bestimmender Faktor für Markenbeziehung
+
+---
+
+<iframe src="http://www.pewinternet.org/chart/mobile-phone-ownership/iframe/" id="pew17312" scrolling="no" width="100%" height="100px" frameborder="0"></iframe> <script type='text/javascript'id='pew-iframe'>(function(){function async_load(){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='http://www.pewinternet.org/wp-content/plugins/pew-scripts/js/iframeResizer.min.js';s.onload=s.onreadystatechange=function(){var rs=this.readyState;try{iFrameResize([],'iframe#pew17312')}catch(e){}};var embedder=document.getElementById('pew-iframe');embedder.parentNode.insertBefore(s,embedder)}if(window.attachEvent)window.attachEvent('onload',async_load);else window.addEventListener('load',async_load,false)})();</script>		
+
+---
 
 
 ## Technische Inhalte als Teil der User Journey
@@ -79,7 +85,7 @@ date: 2017-10-08
 - Inhalte als verbindender Faktor in wissens- und serviceorientierten Organisationen
 
 
-## Synergien zwischen technischer Kommunikation und Organisationskommunikation
+## Synergien zwischen Kommunikatoren
 
 - Technische Kommunikatoren als Spezialisten für Userbedürfnisse
 - Service-Content als Marketing-Instrument
@@ -120,6 +126,13 @@ date: 2017-10-08
 
 
 # Struktur: Intelligent Content
+
+## Intelligent Content
+
+
+![Tim Letscher: Content From Context](https://blog.hubspot.com/hs-fs/hub/53/file-1524815080-png/blog-files/content-context-conveyor-01.png?t=1507329261965&width=1200&height=1764&name=content-context-conveyor-01.png){ width=30% }
+
+
 
 ## Trennung von Inhalt und Präsentation
 
@@ -189,8 +202,18 @@ date: 2017-10-08
 
 # Governance: Gemeinsame Steuerung aller Inhalte
 
+## Managing Chaos
+![Bild: Welchman/Rosenfeld Media](https://farm8.staticflickr.com/7437/15911189043_8abb7f9a0b_c.jpg){ width=70% }
 
 ## Nur gemeinsame Verantwortung sicher optimale strategische Steuerung
 ## Gemeinsame Standards sichern die Qualität und reduzieren Reibungsverluste
 ## Gemeinsame Policies reduzieren Risiken
+
+# Danke!
+
+## Autor
+
+Blog: [Lost and Found](http://wittenbrink.net/lostandfound/ "Lost and Found")
+
+Twitter: @[heinz](https://twitter.com/heinz)
 
