@@ -1,3 +1,2 @@
-# slides-introtoxml
-Slides for an introduction to XML
-
+# slides-csandtc
+Slides on content strategy and technical communication
