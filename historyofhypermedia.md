@@ -28,7 +28,13 @@ date: 2017-11-27
 ## Vannevar Bush: Memex
 
 
-![Vannevar Bush. Source: Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg)
+![Vannevar Bush](https://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg){width=50%}
+
+
+<small class="rights">
+Bild: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vannevar_Bush_portrait.jpg "File:Vannevar Bush portrait.jpg - Wikimedia Commons") This image is a work of the <a href="https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury" class="extiw" title="w:United States Department of the Treasury">United States Department of the Treasury</a>, taken or made as part of an employee's official duties. As a work of the <a href="https://en.wikipedia.org/wiki/Federal_Government_of_the_United_States" class="extiw" title="w:Federal Government of the United States">U.S. federal government</a>, the image is in the <a href="https://en.wikipedia.org/wiki/public_domain" class="extiw" title="w:public domain">public domain</a> in the United States.</i>
+</small>
+
 
 ---
 
@@ -76,10 +82,12 @@ date: 2017-11-27
 
 ---
 
-
-![Drawing by Theodor Nelson](http://www.cabinetmagazine.org/issues/13/computerlib_intertwingled.jpg)
-
 [DigiBarn Documents: Computer Lib/Dream Machines, Ted Nelson](http://www.digibarn.com/collections/books/computer-lib/)
+
+![Ausschnitt aus dem Xanadu-Demo für Windows](http://www.stefan-muenz.de/wp-content/uploads/2016/02/hypertext-2-2-1.jpg)
+
+<small class="rights">Bild: [Stefan Münz](http://www.stefan-muenz.de/hypertext/nelson-xanadu/ "Ted Nelson – Xanadu – Stefan Münz"). Rechte: [Creative-Commons strong](http://creativecommons.org/licenses/by-sa/3.0/de/). Wenn Sie gemäß der Lizenz nutzen, geben Sie bitte stets die genaue URL-Adresse des betroffenen Inhalts an.</small>
+
 
 ---
 
@@ -88,12 +96,11 @@ date: 2017-11-27
 ---
 
 
-
-
-
 ## Doug Engelbart 
 
-![Doug Engelbart 2008. Source: Wikimedia Foundation](https://upload.wikimedia.org/wikipedia/commons/7/78/Douglas_Engelbart_in_2008.jpg){ width=40%}
+![Doug Engelbart 2008](https://upload.wikimedia.org/wikipedia/commons/7/78/Douglas_Engelbart_in_2008.jpg){ width=25%}
+
+<small class="rights">Bild: [Alex Handy – Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Douglas_Engelbart?uselang=de#/media/File:Douglas_Engelbart_in_2008.jpg "Douglas Engelbart in 2008 - Category:Douglas Engelbart – Wikimedia Commons") [![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)</small>
 
 ---
 
@@ -149,7 +156,9 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ## The invention of the web
 
-![Tim Berners-Lee. Source: Wikimedia Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tim_Berners-Lee_CP_2_head_crop.jpg/388px-Tim_Berners-Lee_CP_2_head_crop.jpg) { width=40%}
+![Tim Berners-Lee](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tim_Berners-Lee_CP_2_head_crop.jpg/388px-Tim_Berners-Lee_CP_2_head_crop.jpg){ width=30%}
+
+<small class="rights">Bild: [Silvio Tanaka – Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Tim_Berners-Lee?uselang=de#/media/File:Tim_Berners-Lee_CP_2_head_crop.jpg "Tim Berners-Lee CP 2 head crop - Category:Tim Berners-Lee – Wikimedia Commons")  [Creative Commons — Attribution 2.0 Generic — CC BY 2.0](https://creativecommons.org/licenses/by/2.0/ "Creative Commons — Attribution 2.0 Generic — CC BY 2.0")</small>
 
 
 ---
@@ -195,8 +204,9 @@ technologies: hypertext and multimedia. Hypertext information is accessed in mor
 
 ## The browser wars
 
-![Image: Wired](https://www.wired.com/wp-content/uploads/archive/images/article/magazine/1610/mf_chrome_browser_wars_975.jpg){ width=80%}
+![](https://upload.wikimedia.org/wikipedia/commons/2/24/Browser_Wars_%28en%29.svg){ width=70%}
 
+<small class="rights">Picture: [Wikimedia Commons](https://commons.wikimedia.org/w/index.php?title=File:Browser_Wars.png&redirect=no "File:Browser Wars (en).svg - Wikimedia Commons"). Rights: [Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en "Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0")</small>
 
 ---
 
